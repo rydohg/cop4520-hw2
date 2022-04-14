@@ -1,0 +1,4 @@
+To run please install Rust for your operating system from
+https://www.rust-lang.org/learn/get-started
+
+Then run "cargo run src/main.rs" from the command line!
